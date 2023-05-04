@@ -1,0 +1,1 @@
+'/Users/mroberts/.local/lib/python3.9/site-packages/checkov/secrets/runner.verify_secrets' took: 0:00:01.964686
